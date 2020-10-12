@@ -1,0 +1,22 @@
+.navbar span ,.about .container h1 span,
+#carouselTestimonial .carousel-inner .carousel-item h6,
+footer .copywrite span,
+.btnTop i,
+footer h3
+{
+    color: #e42e2e ;
+}
+
+.navbar-nav .active,
+.option-box i,
+#carouselTestimonial .carousel-indicators li{
+    background-color: #e42e2e;
+}
+
+
+.option-box .color-option,
+#carouselTestimonial .carousel-inner .carousel-item img
+{
+    border: 5px solid #e42e2e;
+
+}
