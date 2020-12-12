@@ -98,6 +98,9 @@ margin: 5px;
     padding-top:40px;
 }
 
+.about h1 span{
+    font-size: 1.5rem;
+}
 .lead{
 font-weight: 450 !important;
 }
